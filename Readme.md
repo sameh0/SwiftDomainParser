@@ -1,5 +1,6 @@
 # Domain Parser 
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/DomainParser?style=for-the-badge)](https://img.shields.io/cocoapods/v/DomainParser?style=for-the-badge)
 
 
 A full-swift simple library which allows to parse host to parse hostnames, and public suffix, using the [Public Suffix List](https://publicsuffix.org)
@@ -21,6 +22,11 @@ Examples:
 
 
 ## Usage 
+
+#### Installation: 
+```
+pod 'DomainParser'
+```
 
 #### Initialization: 
 ```
